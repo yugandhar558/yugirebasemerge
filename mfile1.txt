@@ -1,1 +1,2 @@
-This my first line of m1 file 
+This is my first line m1
+This is my second:wq! line m2
